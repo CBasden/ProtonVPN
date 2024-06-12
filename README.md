@@ -1,5 +1,4 @@
-# ProtonVPN
-Downloading, installing &amp; connecting to ProtonVPN.
+
 # ProtonVPN
 
 This tutorial explains how to install & connect to ProtonVPN.<br />
